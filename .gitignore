@@ -1,0 +1,43 @@
+# Compiled files
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+Debug/
+Release/
+*.dSYM/
+
+# Dependencies
+node_modules/
+*.class
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+.tmp/
+
+# OS files
+Thumbs.db
+.AppleDouble
+.LSOverride
+*.log
+
+# Project specific
+*.cub_old
